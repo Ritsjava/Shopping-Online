@@ -52,6 +52,10 @@
 	 <c:if test="${clickcontact==true}">
 	    <%@ include file="contact.jsp" %>
 	 </c:if>
+	 
+	 <c:if test="${clickproduct==true}">
+	 <%@include file="product.jsp" %>
+	 </c:if>
   </div>
 	<!-- Footer -->
 	<%@include file="./shared/footer.jsp" %>
@@ -67,3 +71,4 @@
 </body>
 
 </html>
+][\=.[,0-'ui=.0 ]]

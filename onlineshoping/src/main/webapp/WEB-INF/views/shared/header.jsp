@@ -13,7 +13,7 @@
 							<span class="sr-only">(current)</span>
 					</a></li>
 					<li class="nav-item"><a class="nav-link" href="${pageContext.request.contextPath}/about">About</a></li>
-					<li class="nav-item"><a class="nav-link" href="${pageContext.request.contextPath}/product">Services</a>
+					<li class="nav-item"><a class="nav-link" href="${pageContext.request.contextPath}/allproduct">Product</a>
 					</li>
 					<li class="nav-item"><a class="nav-link" href="${pageContext.request.contextPath}/contact">Contact</a>
 					</li>
